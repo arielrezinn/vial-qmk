@@ -523,7 +523,7 @@ void raw_hid_receive(uint8_t *data, uint8_t length) {
 #endif
         default: {
             // The command ID is not known let the keyboard implement it
-            raw_hid_receive_kb(data, length);
+            raw_hid_receive(data, length);
             break;
         }
     }
