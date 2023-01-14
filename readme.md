@@ -1,3 +1,5 @@
+# Custom Branch
+This is a copy of the [bluetooth_playground](https://github.com/arielrezinn/vial-qmk/tree/bluetooth_playground) branch with some modifications to make it my own. 
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
