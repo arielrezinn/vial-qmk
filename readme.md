@@ -1,5 +1,5 @@
 # Bluetooth Playground Branch
-This branch is a conglomeration of work from numerous places. It all started after I found [this post on Reddit](https://www.reddit.com/r/Keychron/comments/yovar9/add_vial_support_and_vial_lighting_to_k6_pro_and/). The branch is a fork of @mattmasc's [vial-qmk:bluetooth_playground](https://github.com/mattmasc/vial-qmk/tree/bluetooth_playground). It's primarily made up of Vial's [vial-qmk:vial](https://github.com/vial-kb/vial-qmk) and Keychron's [qmk_firmware:bluetooth_playground](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground). I've also made a handful of changes of my own.
+This branch is a conglomeration of work from numerous places. It all started after I found [this post on Reddit](https://www.reddit.com/r/Keychron/comments/yovar9/add_vial_support_and_vial_lighting_to_k6_pro_and/). The branch is a fork of @mattmasc's [vial-qmk:bluetooth_playground](https://github.com/mattmasc/vial-qmk/tree/bluetooth_playground). It's primarily made up of Vial's [vial-qmk:vial](https://github.com/vial-kb/vial-qmk) and Keychron's [qmk_firmware:bluetooth_playground](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground).
 
 # Quantum Mechanical Keyboard Firmware
 
