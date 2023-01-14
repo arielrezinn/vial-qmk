@@ -1,5 +1,11 @@
 # Custom Branch
 This is a copy of the [bluetooth_playground](https://github.com/arielrezinn/vial-qmk/tree/bluetooth_playground) branch with some modifications to make it my own. 
+
+# What I've done
+1. Make the battery level animation quicker (keyboards/keychron/bluetooth/bat_level_animation.c#L14)
+1. Change which layers the dip switch toggles between (keyboards/keychron/k6_pro/k6_pro.c#L63)
+1. Edit the custom keycode properties in (keyboards/keychron/k6_pro/ansi/rgb/keymaps/vial/vial.json)
+1. Copy my personal keyboard folder over from the bluetooth_playground branch
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
