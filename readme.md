@@ -2,9 +2,9 @@
 This is a copy of the [bluetooth_playground](https://github.com/arielrezinn/vial-qmk/tree/bluetooth_playground) branch with some modifications to make it my own. 
 
 # What I've done
-1. Make the battery level animation quicker (keyboards/keychron/bluetooth/bat_level_animation.c#L14)
-1. Add code that changes which layers the dip switch toggles between (keyboards/keychron/k6_pro/k6_pro.c#L63)
-1. Edit the custom keycode properties in (keyboards/keychron/k6_pro/ansi/rgb/keymaps/vial/vial.json)
+1. Make the battery level animation quicker in the [bat_level_animation.c](keyboards/keychron/bluetooth/bat_level_animation.c#L14)
+1. Add code that changes which layers the dip switch toggles between in the [k6_pro.c](keyboards/keychron/k6_pro/k6_pro.c#L63)
+1. Edit the custom keycode properties in the [vial.json](keyboards/keychron/k6_pro/ansi/rgb/keymaps/vial/vial.json)
 1. Rearrange layers and reassign keys in the [keymap.c](keyboards/keychron/k6_pro/ansi/rgb/keymaps/vial/keymap.c)
 1. Fix some syntax `qmk doctor` didn't like
 1. Delete all keyboards (other than my Keychron K6 Pro)
