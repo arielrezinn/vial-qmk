@@ -7,6 +7,7 @@ This is a copy of the [bluetooth_playground](https://github.com/arielrezinn/vial
 1. Edit the custom keycode properties in (keyboards/keychron/k6_pro/ansi/rgb/keymaps/vial/vial.json)
 1. Make simple changes to the [keymap.c](keyboards/keychron/k6_pro/ansi/rgb/keymaps/vial/keymap.c)
 1. Fix some syntax `qmk doctor` didn't like
+1. Delete all keyboards (other than my Keychron K6 Pro)
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
