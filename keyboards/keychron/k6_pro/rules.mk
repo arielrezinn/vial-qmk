@@ -1,6 +1,6 @@
 # MCU name
 MCU = STM32L432
- 
+
 # Bootloader selection
 BOOTLOADER = stm32-dfu
 
@@ -30,7 +30,4 @@ OPT_DEFS += -DNO_USB_STARTUP_CHECK -DENABLE_FACTORY_TEST
 
 CUSTOM_MATRIX = lite
 SRC += matrix.c
-
-include keyboards/keychron/bluetooth/bluetooth.mk
-
 
